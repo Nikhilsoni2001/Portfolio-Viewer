@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portfolio Viewer</string>
+    <string name="splash_image">splash_image</string>
+    <string name="login_image">login_image</string>
+    <string name="don_t_have_a_account">Don\'t have a account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="login">Login</string>
+</resources>

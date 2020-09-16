@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695421318570",
+    "firebase_url": "https://portfolio-viewer-ddf6d.firebaseio.com",
+    "project_id": "portfolio-viewer-ddf6d",
+    "storage_bucket": "portfolio-viewer-ddf6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695421318570:android:c59509f31a2ebde6efe7d3",
+        "android_client_info": {
+          "package_name": "com.any.portfolioviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695421318570-r8eufv7djr1g6farr2sfki0efmnhl0sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiyb9VzFPtoiLK2vZFk4sElRXXdwhwPFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695421318570-r8eufv7djr1g6farr2sfki0efmnhl0sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
