@@ -19,9 +19,15 @@ class SplashScreen : AppCompatActivity() {
             delay(2000)
             val intent = Intent(this@SplashScreen, LoginActivity::class.java)
             startActivity(intent)
+
         }
+
 
 
     }
 
+    override fun onPause() {
+        super.onPause()
+        finish()
+    }
 }

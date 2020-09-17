@@ -13,5 +13,10 @@ class LoginActivity : AppCompatActivity() {
         setContentView(R.layout.activity_login)
     }
 
+    fun openSignUp(view: View) {
+        val intent = Intent (this@LoginActivity, Signup::class.java)
+        startActivity(intent)
+    }
+
 
 }
