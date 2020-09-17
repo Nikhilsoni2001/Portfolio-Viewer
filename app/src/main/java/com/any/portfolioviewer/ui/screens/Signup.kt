@@ -1,6 +1,8 @@
 package com.any.portfolioviewer.ui.screens
 
+import android.content.Intent
 import android.os.Bundle
+import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import com.any.portfolioviewer.R
 import com.google.firebase.auth.FirebaseAuth
@@ -14,6 +16,7 @@ class Signup : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
     }
+
 
 //    public override fun onStart() {
 //        super.onStart()

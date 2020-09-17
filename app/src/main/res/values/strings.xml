@@ -8,4 +8,7 @@
     <string name="password">Password</string>
     <string name="or">or</string>
     <string name="login">Login</string>
+    <string name="linkedin_login" />
+    <string name="github_login" />
+    <string name="google_login" />
 </resources>
